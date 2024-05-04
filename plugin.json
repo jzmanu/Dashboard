@@ -1,9 +1,9 @@
 {
-  "name": "plugin-sample-vite-svelte",
+  "name": "Dashboard",
   "author": "frostime",
-  "url": "https://github.com/siyuan-note/plugin-sample-vite-svelte",
-  "version": "0.3.5",
-  "minAppVersion": "3.0.12",
+  "url": "https://github.com/jzmanu/Dashboard",
+  "version": "0.0.1",
+  "minAppVersion": "3.0.10",
   "backends": [
     "windows",
     "linux",
@@ -19,12 +19,12 @@
     "desktop-window"
   ],
   "displayName": {
-    "en_US": "Plugin sample with vite and svelte",
-    "zh_CN": "插件样例 vite + svelte 版"
+    "en_US": "Dashboard",
+    "zh_CN": "仪表盘"
   },
   "description": {
-    "en_US": "SiYuan plugin sample with vite and svelte",
-    "zh_CN": "使用 vite 和 svelte 开发的思源插件样例"
+    "en_US": "SiYuan Note data statistics tool.",
+    "zh_CN": "思源笔记数据统计工具."
   },
   "readme": {
     "en_US": "README.md",
@@ -32,10 +32,10 @@
   },
   "funding": {
     "custom": [
-      "https://afdian.net/a/frostime"
+      "https://github.com/jzmanu/Dashboard"
     ]
   },
   "keywords": [
-    "plugin", "sample", "插件样例"
+    "plugin", "data statistics", "plugin", "siyuan"
   ]
 }
